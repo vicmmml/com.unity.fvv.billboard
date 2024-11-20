@@ -2,22 +2,17 @@
     "name": "com.unity.fvv.billboard",
     "version": "1.0.0",
     "displayName": "FVV Live billboard visualizer",
-    "description": "This is an example package",
+    "description": "This package provides an integration with UPM's Live Free Viewpoint Video system using WebRTC for Unity 2020.3 and above",
     "unity": "2020.3",
     "unityRelease": "0b5",
-    "documentationUrl": "https://example.com/",
-    "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
     "keywords": [
-        "keyword1",
-        "keyword2",
-        "keyword3"
+        "Volumetric video",
+        "WebRTC",
+        "Free Viewpoint Video", 
+        "Immersive video", 
+        "Immersive videoconference", 
+        "Videoconference"
       ],
-      "author": {
-        "name": "Unity",
-        "email": "unity@example.com",
-        "url": "https://www.unity3d.com"
-      },
       "dependencies": {
         "com.unity.modules.unitywebrequest": "1.0.0",
         "com.unity.modules.unitywebrequestassetbundle": "1.0.0",

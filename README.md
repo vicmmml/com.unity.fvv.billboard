@@ -34,5 +34,5 @@ All the key features provided by this package are used in the sample scene, alre
 
 ## FAQ and Troubleshooting
 
-### Error message "InvalidOperationException: Insecure connection not allowed"
-In some Unity versions  tools bar at the top Edit -> Project Settings -> Player -> Other Settings -> Configuration -> Allow downloads over HTTP on "Always allowed"
+- ### Error message "InvalidOperationException: Insecure connection not allowed"
+This error usually occurs in higher Unity versions, it can be solved by looking at Edit submenu (located in the tools bar at the top) and then `Project Settings -> Player -> Other Settings -> Configuration -> Allow downloads over HTTP` and select "Always allowed".
