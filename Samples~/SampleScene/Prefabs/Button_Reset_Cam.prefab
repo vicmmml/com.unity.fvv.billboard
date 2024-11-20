@@ -255,8 +255,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: aiortcConnector, Assembly-CSharp
+      - m_Target: {fileID: 5153755547794135641, guid: a27bd86ccb356334c8281cfee26c8966, type: 3}
+        m_TargetAssemblyTypeName: aiortcConnector, com.unity.fvv.billboard
         m_MethodName: ResetCam
         m_Mode: 1
         m_Arguments:

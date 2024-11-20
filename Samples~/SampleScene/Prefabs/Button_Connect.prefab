@@ -121,9 +121,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 2e79c9d5680f0aa428b8fb73e5fd71c8, type: 3}
-        m_TargetAssemblyTypeName: aiortcConnector, Assembly-CSharp
-        m_MethodName: 
+      - m_Target: {fileID: 5153755547794135641, guid: a27bd86ccb356334c8281cfee26c8966, type: 3}
+        m_TargetAssemblyTypeName: aiortcConnector, com.unity.fvv.billboard
+        m_MethodName: Connect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

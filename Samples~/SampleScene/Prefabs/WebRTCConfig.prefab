@@ -223,14 +223,14 @@ MonoBehaviour:
   receiveVideo: {fileID: 0}
   m_ServerIp: fvvrouter.gti.ssr.upm.es
   m_ServerPort: 8080
-  VRCamera: {fileID: 0}
+  Camera: {fileID: 0}
   receivedAudio: {fileID: 0}
   viewPlane: {fileID: 0}
   radio_fvv: 2500
   OnConnect:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 4095591036665083723, guid: 7cd57055bcc76c0459a458068c832346, type: 3}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -242,7 +242,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 6435468693956829163, guid: 7c124730cbd5e5f48a376c2aac4f6e28, type: 3}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -257,7 +257,7 @@ MonoBehaviour:
   OnDisconnect:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 4095591036665083723, guid: 7cd57055bcc76c0459a458068c832346, type: 3}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -269,7 +269,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 6435468693956829163, guid: 7c124730cbd5e5f48a376c2aac4f6e28, type: 3}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
